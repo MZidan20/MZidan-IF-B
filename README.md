@@ -6,7 +6,10 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-PROGRAM KOLOM DAN BARIS BANYAK DATA DITUKAR
+PROGRAM KOLOM DAN BARIS BANYAK DATA DITUKAR :
+Pada program mengenain sebuah nili atau angka yang diinputkan menjadi sebuah baris serta kolom menjadi matriks yang dimana baris dan kolom
+tersebut ditranspose/ditukan posisi nya sehingga nilai yang awal nya di baris dibalik menjadi kolom dan begitu dengan sebaliknya untuk hasil
+outputnya.
 ## Source Code
 
 ```
